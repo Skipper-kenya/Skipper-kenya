@@ -15,7 +15,6 @@ I'm a passionate Full-stack Developer
 
 ![Static Badge](https://img.shields.io/badge/MaterialUI-Antdesign-yellow)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Skipper-kenya)](https://git.io/streak-stats)
 
 About me
 
@@ -27,6 +26,6 @@ About me
 
 💬 Ask me about anything here
 
-
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
