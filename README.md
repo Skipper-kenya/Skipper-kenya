@@ -15,6 +15,7 @@ I'm a passionate Full-stack Developer
 
 ![Static Badge](https://img.shields.io/badge/MaterialUI-Antdesign-yellow)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Skipper-kenya)](https://git.io/streak-stats)
 
 About me
 
