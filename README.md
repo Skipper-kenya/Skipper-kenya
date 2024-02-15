@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a passionate Full-stack Developer
+About me
+❤️ I'm a passionate Full-stack Developer
 
 ![Static Badge](https://img.shields.io/badge/my-Tech-green)
 
@@ -15,17 +16,5 @@ I'm a passionate Full-stack Developer
 
 ![Static Badge](https://img.shields.io/badge/MaterialUI-Antdesign-yellow)
 
-
-About me
-
-💼 
-
-📈 
-
-❤️ I love writing JavaScript, and building fun Projects at top-level
-
-💬 Ask me about anything here
-
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
