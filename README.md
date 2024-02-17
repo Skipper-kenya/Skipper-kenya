@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Uploading backdropnew.png…]()
+
 About me
 ❤️ I'm a passionate Full-stack Developer
 
