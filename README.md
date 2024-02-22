@@ -2,7 +2,7 @@
 ![backdropnew](https://github.com/Skipper-kenya/Skipper-kenya/assets/108946752/56da7633-1210-4424-9fc1-6c0174602031)
 
 
-About me
+
 ❤️ I'm a passionate Full-stack Developer
 
 ![Static Badge](https://img.shields.io/badge/my-Tech-green)
