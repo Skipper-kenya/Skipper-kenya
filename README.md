@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![backdropnew](https://github.com/Skipper-kenya/Skipper-kenya/assets/108946752/56da7633-1210-4424-9fc1-6c0174602031)
 
-![IMG-20231023-WA0008](https://github.com/Skipper-kenya/Skipper-kenya/assets/108946752/6bb6bb56-39b3-44fd-bd87-61f732245db5)
 
 ❤️ I'm a passionate Full-stack Developer
 
