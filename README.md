@@ -13,6 +13,7 @@
 
 ![Static Badge](https://img.shields.io/badge/StateManagement-Redux%20%7C%20contextApi-yellow)
 
+
 ![Static Badge](https://img.shields.io/badge/database-MongoDB%20%7C%20MySQL-yellow)
 
 
