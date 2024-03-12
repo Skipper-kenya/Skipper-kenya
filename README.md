@@ -5,6 +5,8 @@
 
 ![Static Badge](https://img.shields.io/badge/my-Tech-green)
 
+[![Skipper-kenya GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
+
 🔭ReactJS, NodeJs, Express, Redux, Antd material UI , MongoDB , MySQL, HTML, CSS 
 
 ![Static Badge](https://img.shields.io/badge/Frontend-ReactJs%20%7C%20HTML5%20%7C%20CSS-yellow)
