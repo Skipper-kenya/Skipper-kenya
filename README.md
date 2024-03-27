@@ -5,9 +5,9 @@
 
 ![Static Badge](https://img.shields.io/badge/my-Tech-green)
 
-🔭ReactJS, NodeJs, Express, Redux, Antd material UI , MongoDB , MySQL, HTML, CSS 
+🔭TypeScript, ReactJS, NodeJs, Express, Redux, Antd material UI , MongoDB , MySQL, HTML, CSS 
 
-![Static Badge](https://img.shields.io/badge/Frontend-ReactJs%20%7C%20HTML5%20%7C%20CSS-yellow)
+![Static Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJs%20%7C%20HTML5%20%7C%20CSS-yellow)
 
 ![Static Badge](https://img.shields.io/badge/Backend-NodeJs%20%7C%20Express-yellow)
 
