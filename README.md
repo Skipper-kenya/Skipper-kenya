@@ -15,7 +15,7 @@
 
 ![Static Badge](https://img.shields.io/badge/database-MongoDB%20%7C%20MySQL-yellow)
 
-![Static Badge](https://img.shields.io/badge/MaterialUI-Antdesign-yellow)
+![Static Badge](https://img.shields.io/badge/MaterialUI-Antd-yellow)
 
 ![Static Badge](https://img.shields.io/badge/MobileDevelopment-ReactNative-yellow)
 
