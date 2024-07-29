@@ -17,7 +17,7 @@
 
 ![Static Badge](https://img.shields.io/badge/MaterialUI-Antd-yellow)
 
-![Static Badge](https://img.shields.io/badge/MobileDevelopment-ReactNative-yellow)
+![Static Badge](https://img.shields.io/badge/MobileDevelopment-Flutter-yellow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
 
