@@ -5,11 +5,11 @@
 
 ![Static Badge](https://img.shields.io/badge/my-Tech-green)
 
-🔭TypeScript, ReactJS, NodeJs, Express, Redux, Antd material UI , MongoDB , SQL, HTML, CSS 
+🔭TypeScript, ReactJS, NodeJs, Express, Nest, c# , Redux, material UI , MongoDB , SQL, HTML, CSS , Flutter
 
 ![Static Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJs%20%7C%20HTML5%20%7C%20CSS-yellow)
 
-![Static Badge](https://img.shields.io/badge/Backend-NodeJs%20%7C%20Express-yellow)
+![Static Badge](https://img.shields.io/badge/Backend-NodeJs%20%7C%20Express%20%7C%20C#%20%7%20Nest-yellow)
 
 ![Static Badge](https://img.shields.io/badge/StateManagement-Redux%20%7C%20contextApi-yellow)
 
