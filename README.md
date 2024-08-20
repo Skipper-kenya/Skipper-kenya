@@ -3,21 +3,21 @@
 
 ❤️ Full-stack Developer
 
-![Static Badge](https://img.shields.io/badge/my-Tech-green)
+![Tech Badge](https://img.shields.io/badge/Tech-Stack-green)
 
-🔭TypeScript, ReactJS, NodeJs, Express, Nest, c# , Redux, material UI , MongoDB , SQL, HTML, CSS , Flutter
+🔭 **Languages & Technologies:**  
+TypeScript, ReactJS, Node.js, Express, NestJS, C#, Redux, Material UI, MongoDB, SQL, HTML, CSS, Flutter
 
-![Static Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJs%20%7C%20HTML5%20%7C%20CSS-yellow)
+![Frontend Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJS%20%7C%20HTML5%20%7C%20CSS-yellow)
 
-![Static Badge](https://img.shields.io/badge/Backend-NodeJs%20%7C%20Asp.net-yellow)
+![Backend Badge](https://img.shields.io/badge/Backend-Node.js%20%7C%20ASP.NET-yellow)
 
-![Static Badge](https://img.shields.io/badge/StateManagement-Redux%20%7C%20contextApi-yellow)
+![State Management Badge](https://img.shields.io/badge/State_Management-Redux%20%7C%20Context_API-yellow)
 
-![Static Badge](https://img.shields.io/badge/database-MongoDB%20%7C%20MySQL-yellow)
+![Database Badge](https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-yellow)
 
-![Static Badge](https://img.shields.io/badge/MaterialUI-Bootstrap-yellow)
+![UI Framework Badge](https://img.shields.io/badge/UI_Framework-Material_UI%20%7C%20Bootstrap-yellow)
 
-![Static Badge](https://img.shields.io/badge/MobileDevelopment-Flutter-yellow)
+![Mobile Development Badge](https://img.shields.io/badge/Mobile_Development-Flutter-yellow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
-
