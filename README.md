@@ -8,11 +8,11 @@
 🔭 **Languages & Technologies:**
 
 - **Frontend:** TypeScript, ReactJS, HTML, CSS
-- **Backend:** Node.js, Express, NestJS, C#, SQL
-- **State Management:** Redux
-- **UI Frameworks:** Material UI
+- **Backend:** Node.js, Express, NestJS, C#
+- **State Management:** Redux                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
+
+- **UI Frameworks:** Material UI, Bootstrap
 - **Database:** MongoDB, SQL
 - **Mobile Development:** Flutter
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
