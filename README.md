@@ -20,4 +20,4 @@ TypeScript, ReactJS, Node.js, Express, NestJS, C#, Redux, Material UI, MongoDB, 
 
 ![Mobile Development Badge](https://img.shields.io/badge/Mobile_Development-Flutter-yellow)
 
-<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Skipper-Kenya" frameborder="0" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
