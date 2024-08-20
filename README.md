@@ -10,14 +10,16 @@ TypeScript, ReactJS, Node.js, Express, NestJS, C#, Redux, Material UI, MongoDB, 
 
 ![Frontend Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJS%20%7C%20HTML5%20%7C%20CSS-yellow)
 
-![Backend Badge](https://img.shields.io/badge/Backend-Node.js%20%7C%20ASP.NET-yellow)
+### Tech Stack
 
-![State Management Badge](https://img.shields.io/badge/State_Management-Redux%20%7C%20Context_API-yellow)
+![Frontend Badge](https://img.shields.io/badge/Frontend-TypeScript%20%7C%20ReactJS%20%7C%20HTML5%20%7C%20CSS-yellow) 
+![Backend Badge](https://img.shields.io/badge/Backend-Node.js%20%7C%20ASP.NET-yellow) 
 
-![Database Badge](https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-yellow)
+![State Management Badge](https://img.shields.io/badge/State_Management-Redux%20%7C%20Context_API-yellow) 
+![Database Badge](https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-yellow) 
 
-![UI Framework Badge](https://img.shields.io/badge/UI_Framework-Material_UI%20%7C%20Bootstrap-yellow)
-
+![UI Framework Badge](https://img.shields.io/badge/UI_Framework-Material_UI%20%7C%20Bootstrap-yellow) 
 ![Mobile Development Badge](https://img.shields.io/badge/Mobile_Development-Flutter-yellow)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
