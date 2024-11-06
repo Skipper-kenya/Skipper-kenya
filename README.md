@@ -4,6 +4,8 @@
 
 Full-stack Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Skipper-kenya&label=Profile%20views&color=0e75b6&style=flat" alt="Skipper-kenya" /> </p>
+
 ![Tech Badge](https://img.shields.io/badge/Tech-Stack-green)
 
 🔭 **Languages & Technologies:**
