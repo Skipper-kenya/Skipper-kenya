@@ -4,7 +4,6 @@
 
 Full-stack Developer
 
-
 ![Tech Badge](https://img.shields.io/badge/Tech-Stack-green)
 
 🔭 **Languages & Technologies:**
