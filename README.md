@@ -18,4 +18,4 @@ Full-stack Developer
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-kenya)](https://github.com/Skipper-kenya/github-readme-stats)
