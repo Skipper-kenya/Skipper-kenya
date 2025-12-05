@@ -13,7 +13,6 @@ Full-stack Developer
 -  .Net Developer (c#) (Core & Framework)
 -  JavaScript Developer
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-kenya&layout=compact)](https://github.com/Skipper-kenya/github-readme-stats)
 
 
